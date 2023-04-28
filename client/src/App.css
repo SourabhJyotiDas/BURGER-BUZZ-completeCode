@@ -1,0 +1,18 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@import url('https://fonts.googleapis.com/css2?family=Bangers&family=Raleway&display=swap');
+
+.heading {
+  font-family: "Bangers", cursive;
+}
+
+.para {
+  font-family: 'Raleway', sans-serif;
+}
+
+
+html{
+  scroll-behavior: smooth;
+}
